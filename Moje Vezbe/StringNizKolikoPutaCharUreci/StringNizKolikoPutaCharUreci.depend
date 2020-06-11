@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540752784 source:d:\pripremna nastava programiranje\moje vezbe\stringnizkolikoputacharureci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

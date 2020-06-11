@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541879379 source:d:\pripremna nastava programiranje\moje vezbe\nizstringobrnutopisanje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

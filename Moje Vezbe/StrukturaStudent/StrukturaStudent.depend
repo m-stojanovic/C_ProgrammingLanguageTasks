@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544291092 source:d:\pripremna nastava programiranje\moje vezbe\strukturastudent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"studenti.h"
+
+1544291858 d:\pripremna nastava programiranje\moje vezbe\strukturastudent\studenti.h
+
+1544291899 source:d:\pripremna nastava programiranje\moje vezbe\strukturastudent\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"studenti.h"
+

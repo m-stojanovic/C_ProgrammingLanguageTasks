@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541882787 source:d:\pripremna nastava programiranje\moje vezbe\nizstringzbirsvihcifara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

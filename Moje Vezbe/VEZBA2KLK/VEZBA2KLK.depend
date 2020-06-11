@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547565274 source:d:\pripremna nastava programiranje\moje vezbe\vezba2klk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

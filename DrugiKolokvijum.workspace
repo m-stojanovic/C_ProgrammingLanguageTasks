@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/VEZBA2KLK/VEZBA2KLK.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/DomaciZadatak2/DomaciZadatak2.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/DomaciZadatak3/DomaciZadatak3.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileUpisIspis/FileUpisIspis.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileStringUpisIspis/FileStringUpisIspis.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileStringObrnutoCitanje/FileStringObrnutoCitanje.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FilePolindrom/FilePolindrom.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileZbirRazlikaBrojeva/FileZbirRazlikaBrojeva.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileStudentiImePrezimeOcena/FileStudentiImePrezimeOcena.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileCitaIzFajlaPiseNaEkran/FileCitaIzFajlaPiseNaEkran.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileIspisBrojaRedova/FileIspisBrojaRedova.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileBrojReciKaraktera/FileBrojReciKaraktera.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileKopiraSadrzajFajlaUDrugi/FileKopiraSadrzajFajlaUDrugi.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileSveLinijeImajuTuRec/FileSveLinijeImajuTuRec.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileTekstDvaFajlaPiseUTreci/FileTekstDvaFajlaPiseUTreci.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileRecenicaJednoSlovo/FileRecenicaJednoSlovo.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FileBrojIntFloatWord/FileBrojIntFloatWord.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkMaxElemenatNiza/FunkMaxElemenatNiza.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkMinElemenatNiza/FunkMinElemenatNiza.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkNtiStepenBroja/FunkNtiStepenBroja.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkImplemnVoidZamena2Br/FunkImplemnVoidZamena2Br.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkSortiraNizBrRastuce/FunkSortiraNizBrRastuce.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkProveraParnogBr/FunkProveraParnogBr.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkIspisUpisanihBrNiza/FunkIspisUpisanihBrNiza.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkProveraStringPalindrom/FunkProveraStringPalindrom.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkObrnutBroj/FunkObrnutBroj.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/FunkVracaPodstringStringa/FunkVracaPodstringStringa.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaStudent/StrukturaStudent.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaIzvestaj/StrukturaIzvestaj.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaStudentProsecnaOcena/StrukturaStudentProsecnaOcena.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaOsoba/StrukturaOsoba.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaKandidat/StrukturaKandidat.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaMonitor/StrukturaMonitor.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaKredit/StrukturaKredit.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaRacun/StrukturaRacun.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/StrukturaUtakmica/StrukturaUtakmica.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/AZ1ZbirNBrojeva/AZ1ZbirNBrojeva.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/AZ2StringKopiraUDrugi/AZ2StringKopiraUDrugi.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/BZ1StepenBroja/BZ1StepenBroja.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/BZ2ParnihCifriString/BZ2ParnihCifriString.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/CZ1BrVeci100kMnozenje3/CZ1BrVeci100kMnozenje3.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/CZ2VratitPozicijuPrveTacke/CZ2VratitPozicijuPrveTacke.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/DZ1DalObrnuteCifre/DZ1DalObrnuteCifre.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/DZ2VelikoSlovoNaUpitnik/DZ2VelikoSlovoNaUpitnik.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/CetvrtiDomaciPrimer/CetvrtiDomaciPrimer.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/PetiDomaciPrimerIspit/PetiDomaciPrimerIspit.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/PripremaZaIspit/PripremaZaIspit.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/PripremaZaIspitAutomobil/PripremaZaIspitAutomobil.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/PripremaZaIspitBiblioteka/PripremaZaIspitBiblioteka.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/DomaciZadatak4/DomaciZadatak4.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/DomaciZadatak5/DOMACIPET.cbp" />
+		<Project filename="D:/Pripremna nastava programiranje/Moje Vezbe/nemanja/nemanja.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

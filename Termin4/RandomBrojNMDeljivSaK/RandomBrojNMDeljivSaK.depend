@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539096040 source:d:\pripremna nastava programiranje\termin4\randombrojnmdeljivsak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

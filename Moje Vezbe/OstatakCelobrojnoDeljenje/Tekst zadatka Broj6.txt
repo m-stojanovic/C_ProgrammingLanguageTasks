@@ -1,0 +1,1 @@
+Napisati program koji za dva uneta cela broja vrši operacije sabiranja, oduzimanja, množenja, celobrojnog deljenja i ostatka pri celobrojnom deljenju.

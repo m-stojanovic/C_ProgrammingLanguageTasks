@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544295724 source:d:\pripremna nastava programiranje\moje vezbe\strukturaizvestaj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"izvestaj.h"
+
+1544295684 d:\pripremna nastava programiranje\moje vezbe\strukturaizvestaj\izvestaj.h
+
+1544295762 source:d:\pripremna nastava programiranje\moje vezbe\strukturaizvestaj\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"izvestaj.h"
+

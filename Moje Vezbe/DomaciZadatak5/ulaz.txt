@@ -1,0 +1,42 @@
+partizan
+zvezda
+JNA
+3
+1
+1
+zvezda
+radnicki nis
+marakana
+2
+1
+1
+partizan
+radnicki nis
+JNA
+4
+2
+1
+vojvodina
+partizan
+cair
+0
+0
+1
+arsenal
+chelsea
+emirates
+2
+3
+2
+bayern
+wolfsburg
+aliance arena
+7
+0
+4
+partizan
+ofk beograd
+JNA
+3
+3
+1

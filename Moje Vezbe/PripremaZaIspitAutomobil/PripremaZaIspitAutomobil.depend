@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545913715 source:d:\pripremna nastava programiranje\moje vezbe\pripremazaispitautomobil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AUTOMOBIL.h"
+
+1545914036 d:\pripremna nastava programiranje\moje vezbe\pripremazaispitautomobil\automobil.h
+
+1545913919 source:d:\pripremna nastava programiranje\moje vezbe\pripremazaispitautomobil\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AUTOMOBIL.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541873827 source:d:\pripremna nastava programiranje\moje vezbe\vezba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1543520207 source:d:\pripremna nastava programiranje\moje vezbe\vezba\vezba.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

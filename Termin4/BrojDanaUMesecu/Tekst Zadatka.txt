@@ -1,0 +1,3 @@
+Napisati program koji za ucitan mesec i godinu ispisuje koliko taj mesec u toj godini ima dana.
+Na standardni ulaz se unose celi brojevi m i g, gde je m redni broj meseca u godini, a g godina.
+Na standardni izlaz se ispisuje jedan ceo broj koji predstavlja broj dana u unetom mesecu u unetoj godini.

@@ -1,0 +1,3 @@
+Napisati program kojim se izbacuje svako pojavljivanje cifre CF iz datog broja N.
+Preko standardnog ulaza korisnik unosi dva cela broja: N-zadati broj(N>0) i CF-cifra koja se izbacuje(0<=CF<=9)
+Na standardi izlaz ispisuje se broj N koji ne sadrži cifru CF.

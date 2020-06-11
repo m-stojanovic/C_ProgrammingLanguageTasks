@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538219466 source:d:\pripremna nastava programiranje\termin5\fibionacijevbroj\main.c
+	<stdio.h>
+	<stdlib.h>
+

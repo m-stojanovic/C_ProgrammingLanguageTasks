@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542719001 source:d:\pripremna nastava programiranje\moje vezbe\nizstringnajvecibrojustringu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

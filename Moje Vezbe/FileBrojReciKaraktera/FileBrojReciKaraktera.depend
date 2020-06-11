@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543575722 source:d:\pripremna nastava programiranje\moje vezbe\filebrojrecikaraktera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

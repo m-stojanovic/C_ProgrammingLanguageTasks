@@ -1,0 +1,60 @@
+Blic
+Blic DOO
+40
+2500
+stampa
+Milka
+Mondelez
+89
+850
+hrana
+Coca Cola
+Coca Cola Inc
+119
+700
+pice
+Najlepse zelja
+Stark
+119
+450
+hrana
+Schweppes
+Coca Cola Inc
+119
+0
+pice
+Sprite
+Coca Cola Inc
+119
+300
+pice
+Politikin zabavnik
+Politika
+120.00
+500
+stampa
+Milka sa jagodom
+Mondelez
+139
+0
+hrana
+Colgate pasta za zube
+Colgate
+249
+134
+higijena
+Palmolive sampon
+Palmolive
+299
+100
+higijena
+BOSCH pegla
+BOSCH
+4999
+150
+tehnika
+BOSCH Ves masina
+BOSCH
+21999
+15
+tehnika

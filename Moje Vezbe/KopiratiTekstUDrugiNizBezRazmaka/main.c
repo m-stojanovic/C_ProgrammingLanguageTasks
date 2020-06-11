@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+
+    char s[256];
+    char s2[256];
+    gets(s);
+    int n = strlen(s);
+    int i,j=0;
+
+    int broj=0;
+
+    for(i=0; i<n; i++)
+    {
+        if(s[i] != ' ')
+        {
+            s2[j]=s[i];
+            j++;
+        }
+    }
+
+    s2[j]='\0';
+
+    printf("%s", s2);
+
+
+
+    return 0;
+}

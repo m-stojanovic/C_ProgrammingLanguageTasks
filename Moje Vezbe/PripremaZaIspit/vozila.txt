@@ -1,0 +1,97 @@
+22743
+Omladinski stadion
+Knezevac
+40
+3
+tramvaj
+98734
+Ustanicka
+Novi Beograd/Blok 45
+45
+7
+tramvaj
+39748
+Dorcol/Dunavska
+Naselje Brace Jerkovic
+45
+26
+autobus
+58439
+Studentski trg
+Zvezdara
+15
+28
+trolejbus
+78123
+Vukov spomenik
+Naselje Belville
+26
+EKO 1
+elektro-bus
+87323
+Zemun/Kej oslobodjenja
+Jakovo
+60
+610
+autobus
+10039
+Novi Beograd/Paviljoni
+Simanovci
+71
+711
+autobus
+98321
+Trg Slavija/Kralja Milutina
+Aerodrom Nikola Tesla
+30
+A1
+minibus
+55533
+Kumodraz
+Dorcol/SRC Milan Gale Muskatirovic
+40
+E9
+minibus
+58145
+Studentski trg
+Krusevacka
+20
+22
+trolejbus
+14439
+Zvezdara
+Banjica 2
+35
+40
+trolejbus
+63221
+Glavna zeleznicka stanica
+Sremcica
+63
+511
+autobus
+35402
+Omladinski stadion
+Lesce/Groblje
+20
+35L
+autobus
+11225
+Pristaniste
+Pristaniste
+40
+2
+tramvaj
+99932
+Omladinski stadion
+Banovo brdo
+30
+12
+tramvaj
+98456
+Dorcol
+Surcin
+71
+620
+Bus
+

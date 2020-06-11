@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544301973 source:d:\pripremna nastava programiranje\moje vezbe\strukturaosoba\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"osoba.h"
+
+1544301973 d:\pripremna nastava programiranje\moje vezbe\strukturaosoba\osoba.h
+
+1544301754 source:d:\pripremna nastava programiranje\moje vezbe\strukturaosoba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"osoba.h"
+

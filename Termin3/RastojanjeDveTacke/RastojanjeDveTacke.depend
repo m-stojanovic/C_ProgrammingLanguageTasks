@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537886982 source:d:\pripremna nastava programiranje\termin3\rastojanjedvetacke\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

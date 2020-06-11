@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544292226 source:d:\pripremna nastava programiranje\moje vezbe\domacizadatatk.3\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funkcije.h"
+
+1544183056 d:\pripremna nastava programiranje\moje vezbe\domacizadatatk.3\funkcije.h
+
+1544292079 source:d:\pripremna nastava programiranje\moje vezbe\domacizadatatk.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funkcije.h"
+

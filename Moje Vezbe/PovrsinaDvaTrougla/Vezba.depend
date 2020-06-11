@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537640678 source:d:\pripremna nastava programiranje\vezba\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1538330927 source:d:\pripremna nastava programiranje\moje vezbe\broj6 - copy (3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

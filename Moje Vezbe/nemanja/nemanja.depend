@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549325663 source:d:\pripremna nastava programiranje\moje vezbe\nemanja\fcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"heder.h"
+
+1549325861 d:\pripremna nastava programiranje\moje vezbe\nemanja\heder.h
+
+1549326758 source:d:\pripremna nastava programiranje\moje vezbe\nemanja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"heder.h"
+

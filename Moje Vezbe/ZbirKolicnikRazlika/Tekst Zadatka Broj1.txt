@@ -1,0 +1,1 @@
+Napisati program koji za dva uneta broja ispisuje njihov zbir, razliku i kolicnik. Rezultate ispisati zaokružene na 2 decimale.

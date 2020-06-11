@@ -1,0 +1,4 @@
+Napisati program koji za ucitane vrednosti kateta dva pravougla trougla, ispisuje koji trougao ima vecu površinu.
+Na standardni ulaz se unose a1,b1,a2,b2, dužine kateta prvog i drugog trougla respektivno. Dužine su realni brojevi.
+Na standardni izlaz se ispisuje 1 ukoliko je povšina prvog trougla veca. Ukoliko je površina drugog trougla veca
+ispisuje se 2, a ako su površine jednake ispisuje se 0.

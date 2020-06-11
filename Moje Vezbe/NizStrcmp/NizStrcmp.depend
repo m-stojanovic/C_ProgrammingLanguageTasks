@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540328142 source:d:\pripremna nastava programiranje\moje vezbe\nizstrcmp\main.c
+	<stdio.h>
+	<string.h>
+

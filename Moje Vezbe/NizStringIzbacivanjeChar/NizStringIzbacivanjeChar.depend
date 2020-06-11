@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541958671 source:d:\pripremna nastava programiranje\moje vezbe\nizstringizbacivanjechar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

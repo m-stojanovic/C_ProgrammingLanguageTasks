@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542324331 source:d:\pripremna nastava programiranje\moje vezbe\ispisnizaslucajnimbr1do100\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

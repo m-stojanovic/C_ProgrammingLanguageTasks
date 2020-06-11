@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544547365 source:d:\pripremna nastava programiranje\moje vezbe\strukturautakmica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utakmica.h"
+
+1544547535 d:\pripremna nastava programiranje\moje vezbe\strukturautakmica\utakmica.h
+
+1544547442 source:d:\pripremna nastava programiranje\moje vezbe\strukturautakmica\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utakmica.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544545051 source:d:\pripremna nastava programiranje\moje vezbe\strukturakredit\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"kredit.h"
+
+1544545051 d:\pripremna nastava programiranje\moje vezbe\strukturakredit\kredit.h
+
+1544545322 source:d:\pripremna nastava programiranje\moje vezbe\strukturakredit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"kredit.h"
+

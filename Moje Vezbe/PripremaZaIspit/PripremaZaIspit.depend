@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549138955 source:d:\pripremna nastava programiranje\moje vezbe\pripremazaispit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GSP.h"
+
+1545858899 d:\pripremna nastava programiranje\moje vezbe\pripremazaispit\gsp.h
+
+1547565511 source:d:\pripremna nastava programiranje\moje vezbe\pripremazaispit\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GSP.h"
+

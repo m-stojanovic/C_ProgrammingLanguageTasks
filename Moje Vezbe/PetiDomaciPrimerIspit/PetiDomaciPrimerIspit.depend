@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545518924 source:d:\pripremna nastava programiranje\moje vezbe\petidomaciprimerispit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funkcije.h"
+
+1545518899 d:\pripremna nastava programiranje\moje vezbe\petidomaciprimerispit\funkcije.h
+

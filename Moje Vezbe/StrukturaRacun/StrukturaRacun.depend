@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544546336 source:d:\pripremna nastava programiranje\moje vezbe\strukturaracun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"racuni.h"
+
+1544546344 d:\pripremna nastava programiranje\moje vezbe\strukturaracun\racuni.h
+

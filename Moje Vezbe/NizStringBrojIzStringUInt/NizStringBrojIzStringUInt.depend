@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542234876 source:d:\pripremna nastava programiranje\moje vezbe\nizstringbrojizstringuint\main.c
+	<stdio.h>
+	<string.h>
+

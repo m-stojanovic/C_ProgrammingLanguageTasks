@@ -1,0 +1,1 @@
+Int: 5 | Float: 4.00 | String: 3 

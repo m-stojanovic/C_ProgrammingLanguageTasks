@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1547382063 source:d:\pripremna nastava programiranje\moje vezbe\domacipet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTAKMICA.h"
+
+1547382281 d:\pripremna nastava programiranje\moje vezbe\domacipet\utakmica.h
+
+1547388292 source:d:\pripremna nastava programiranje\moje vezbe\domacipet\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTAKMICA.h"
+
+1547382063 source:d:\pripremna nastava programiranje\moje vezbe\domacizadatak5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTAKMICA.h"
+
+1547382281 d:\pripremna nastava programiranje\moje vezbe\domacizadatak5\utakmica.h
+

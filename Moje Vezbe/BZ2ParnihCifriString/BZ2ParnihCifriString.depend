@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544571764 source:d:\pripremna nastava programiranje\moje vezbe\bz2parnihcifristring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

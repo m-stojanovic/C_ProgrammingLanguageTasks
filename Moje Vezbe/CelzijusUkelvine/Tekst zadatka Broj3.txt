@@ -1,0 +1,1 @@
+Napisati program koji za unetu realnu vrednost temperature u stepenima Celzijusa, ispisuje odgovarajucu vrednost temperature u Kelvinima zaokruženu na 1 decimalu. Koristiti formulu TK = TC + 273.15

@@ -1,0 +1,35 @@
+BMW
+X3
+2007
+dizel
+14999.99
+Audi
+A4
+2003
+benzin
+7899.99
+Lada
+Niva
+1995
+plin
+4785.54
+Tesla
+Model 3
+2016
+elektro
+35000.00
+Tesla
+Model S
+2017
+elektro
+44000.00
+Tesla
+Model X
+2018
+elektro
+0.00
+Zastava
+Letelica
+1991
+plin
+1002.23

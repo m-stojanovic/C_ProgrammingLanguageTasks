@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542657240 source:d:\pripremna nastava programiranje\moje vezbe\vezbaprviklk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

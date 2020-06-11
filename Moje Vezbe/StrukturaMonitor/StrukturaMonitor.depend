@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1544308312 source:d:\pripremna nastava programiranje\moje vezbe\strukturamonitor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"monitori.h"
+	<math.h>
+
+1547500950 d:\pripremna nastava programiranje\moje vezbe\strukturamonitor\monitori.h
+
+1547500950 source:d:\pripremna nastava programiranje\moje vezbe\strukturamonitor\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"monitori.h"
+	<math.h>
+

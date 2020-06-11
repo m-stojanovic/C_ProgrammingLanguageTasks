@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543619053 source:d:\pripremna nastava programiranje\moje vezbe\funkproverastringpalindrom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

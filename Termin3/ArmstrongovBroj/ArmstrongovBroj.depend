@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538235919 source:d:\pripremna nastava programiranje\termin3\armstrongovbroj\main.c
+	<stdio.h>
+	<stdlib.h>
+

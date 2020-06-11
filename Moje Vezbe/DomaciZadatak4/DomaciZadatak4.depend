@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1546514482 source:d:\pripremna nastava programiranje\moje vezbe\domacizadatak4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PROIZVODI.h"
+
+1546514961 d:\pripremna nastava programiranje\moje vezbe\domacizadatak4\proizvodi.h
+
+1546469870 source:d:\pripremna nastava programiranje\moje vezbe\domacizadatak4\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PROIZVODI.h"
+

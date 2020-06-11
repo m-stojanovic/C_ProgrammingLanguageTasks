@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545503428 source:d:\pripremna nastava programiranje\moje vezbe\cetvrtidomaciprimer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+

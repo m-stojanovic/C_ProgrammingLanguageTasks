@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1546194099 source:d:\pripremna nastava programiranje\moje vezbe\pripremazaispitbiblioteka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIBLIOTEKA.h"
+
+1546193823 d:\pripremna nastava programiranje\moje vezbe\pripremazaispitbiblioteka\biblioteka.h
+
+1546194782 source:d:\pripremna nastava programiranje\moje vezbe\pripremazaispitbiblioteka\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIBLIOTEKA.h"
+

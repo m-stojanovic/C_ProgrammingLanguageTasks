@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541947480 source:d:\pripremna nastava programiranje\moje vezbe\kvadratbrojeva1don\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544304855 source:d:\pripremna nastava programiranje\moje vezbe\strukturakandidat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"kandidati.h"
+
+1544304773 d:\pripremna nastava programiranje\moje vezbe\strukturakandidat\kandidati.h
+
+1544304914 source:d:\pripremna nastava programiranje\moje vezbe\strukturakandidat\funkcije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"kandidati.h"
+
